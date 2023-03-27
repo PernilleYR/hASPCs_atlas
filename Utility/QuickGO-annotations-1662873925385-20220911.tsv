@@ -1,0 +1,1001 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A024R274	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	9606	Ensembl		P
+UniProtKB	A0A024R878	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	9606	Ensembl		P
+UniProtKB	A0A060YBJ3	GSONMT00035274001	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q06900	8022	AgBase		P
+UniProtKB	A0A061I4T5	Gsk3b	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	10029	Ensembl		P
+UniProtKB	A0A061I667	Ednra	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	10029	Ensembl		P
+UniProtKB	A0A061IE76	Smad4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	10029	Ensembl		P
+UniProtKB	A0A087QH05	AS27_06592	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q06900	9233	AgBase		P
+UniProtKB	A0A087QHI2	AS27_12748	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90998	9233	AgBase		P
+UniProtKB	A0A087QHI2	AS27_12748	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90998	9233	AgBase		P
+UniProtKB	A0A087QXC5	AS27_10776	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P61812	9233	AgBase		P
+UniProtKB	A0A087QXC5	AS27_10776	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P61812	9233	AgBase		P
+UniProtKB	A0A087RK12	AS27_15411	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90999	9233	AgBase		P
+UniProtKB	A0A087V5Z8	N312_01959	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P61812	100784	AgBase		P
+UniProtKB	A0A087V5Z8	N312_01959	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P61812	100784	AgBase		P
+UniProtKB	A0A087VDQ2	N312_06005	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90999	100784	AgBase		P
+UniProtKB	A0A087VEP4	N312_01594	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90998	100784	AgBase		P
+UniProtKB	A0A087VEP4	N312_01594	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q90998	100784	AgBase		P
+UniProtKB	A0A087VIJ5	N312_05999	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	100784	AgBase		P
+UniProtKB	A0A087VIJ5	N312_05999	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	100784	AgBase		P
+UniProtKB	A0A087X7W9	A0A087X7W9	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2CG09|ensembl:ENSDARP00000014581	48698	Ensembl		P
+UniProtKB	A0A087XAB4	A0A087XAB4	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6DRP3|ensembl:ENSDARP00000138373	48698	Ensembl		P
+UniProtKB	A0A087XEZ1	A0A087XEZ1	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R159|ensembl:ENSDARP00000104665	48698	Ensembl		P
+UniProtKB	A0A087XG53	A0A087XG53	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R6J7|ensembl:ENSDARP00000084452	48698	Ensembl		P
+UniProtKB	A0A087XPY8	A0A087XPY8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R5S1|ensembl:ENSDARP00000010252	48698	Ensembl		P
+UniProtKB	A0A087XXS7	A0A087XXS7	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B8JKD7|ensembl:ENSDARP00000100185	48698	Ensembl		P
+UniProtKB	A0A087XYE8	A0A087XYE8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QKB6|ensembl:ENSDARP00000089128	48698	Ensembl		P
+UniProtKB	A0A087Y0M1	A0A087Y0M1	involved_in	GO:0003347	epicardial cell to mesenchymal cell transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0R4IVY5|ensembl:ENSDARP00000141411	48698	Ensembl		P
+UniProtKB	A0A087Y3X0	A0A087Y3X0	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DDG2|ensembl:ENSDARP00000018513	48698	Ensembl		P
+UniProtKB	A0A087YCK4	A0A087YCK4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q90274|ensembl:ENSDARP00000111412	48698	Ensembl		P
+UniProtKB	A0A087YDB1	A0A087YDB1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	48698	Ensembl		P
+UniProtKB	A0A087YDB1	A0A087YDB1	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	48698	Ensembl		P
+UniProtKB	A0A087YDQ2	A0A087YDQ2	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5PQZ4|ensembl:ENSDARP00000123798	48698	Ensembl		P
+UniProtKB	A0A087YEC2	A0A087YEC2	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A286Y942|ensembl:ENSDARP00000143681	48698	Ensembl		P
+UniProtKB	A0A087YIW8	A0A087YIW8	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B8JL25|ensembl:ENSDARP00000003051	48698	Ensembl		P
+UniProtKB	A0A087YKG1	A0A087YKG1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0R4IDS8|ensembl:ENSDARP00000133233	48698	Ensembl		P
+UniProtKB	A0A091D3W2	H920_13727	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	885580	Ensembl		P
+UniProtKB	A0A091DJW5	H920_07943	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	885580	Ensembl		P
+UniProtKB	A0A091DJW5	H920_07943	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	885580	Ensembl		P
+UniProtKB	A0A091DJW5	H920_07943	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	885580	Ensembl		P
+UniProtKB	A0A091DNU5	H920_04793	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	885580	Ensembl		P
+UniProtKB	A0A091DQ95	H920_13582	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	885580	Ensembl		P
+UniProtKB	A0A091DUT0	H920_02736	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	885580	Ensembl		P
+UniProtKB	A0A091DUT0	H920_02736	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	885580	Ensembl		P
+UniProtKB	A0A091DUT0	H920_02736	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	885580	Ensembl		P
+UniProtKB	A0A091DV05	H920_04436	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03358|ensembl:ENSMUSP00000021922	885580	Ensembl		P
+UniProtKB	A0A091DV63	H920_03689	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	885580	Ensembl		P
+UniProtKB	A0A091EB63	H920_06072	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	885580	Ensembl		P
+UniProtKB	A0A091EB63	H920_06072	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	885580	Ensembl		P
+UniProtKB	A0A091ERK7	H920_00179	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	885580	Ensembl		P
+UniProtKB	A0A091GJF4	N303_06190	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9IAK4	55661	AgBase		P
+UniProtKB	A0A091GT71	N320_06739	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	175836	AgBase		P
+UniProtKB	A0A091GT71	N320_06739	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	175836	AgBase		P
+UniProtKB	A0A091GTF8	N303_12259	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	55661	AgBase		P
+UniProtKB	A0A091GTF8	N303_12259	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	55661	AgBase		P
+UniProtKB	A0A091HX08	N300_06275	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	9244	AgBase		P
+UniProtKB	A0A091HX08	N300_06275	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	9244	AgBase		P
+UniProtKB	A0A091I831	N300_08792	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9IAK4	9244	AgBase		P
+UniProtKB	A0A091JF58	Z169_03208	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	188379	AgBase		P
+UniProtKB	A0A091JF58	Z169_03208	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	188379	AgBase		P
+UniProtKB	A0A091LTQ0	N322_04326	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	54380	AgBase		P
+UniProtKB	A0A091LTQ0	N322_04326	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	54380	AgBase		P
+UniProtKB	A0A091MFS3	N310_06465	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	57068	AgBase		P
+UniProtKB	A0A091MFS3	N310_06465	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	57068	AgBase		P
+UniProtKB	A0A091PFA2	N311_07338	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	57397	AgBase		P
+UniProtKB	A0A091PFA2	N311_07338	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	57397	AgBase		P
+UniProtKB	A0A091Q4B1	N330_04056	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	188344	AgBase		P
+UniProtKB	A0A091Q4B1	N330_04056	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	188344	AgBase		P
+UniProtKB	A0A091QW95	N331_06960	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	57421	AgBase		P
+UniProtKB	A0A091QW95	N331_06960	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	57421	AgBase		P
+UniProtKB	A0A091RRY5	N332_12110	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	54374	AgBase		P
+UniProtKB	A0A091RRY5	N332_12110	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	54374	AgBase		P
+UniProtKB	A0A091SLD9	N333_07289	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	176057	AgBase		P
+UniProtKB	A0A091SLD9	N333_07289	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	176057	AgBase		P
+UniProtKB	A0A091SQD9	N334_08033	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	36300	AgBase		P
+UniProtKB	A0A091SQD9	N334_08033	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	36300	AgBase		P
+UniProtKB	A0A091UHL6	N337_08881	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	9218	AgBase		P
+UniProtKB	A0A091UHL6	N337_08881	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	9218	AgBase		P
+UniProtKB	A0A093CKQ9	N340_07351	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	121530	AgBase		P
+UniProtKB	A0A093CKQ9	N340_07351	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	121530	AgBase		P
+UniProtKB	A0A093H4D7	N308_09591	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	441894	Ensembl		P
+UniProtKB	A0A093H6T4	N308_02472	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	441894	Ensembl		P
+UniProtKB	A0A093H6T4	N308_02472	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	441894	Ensembl		P
+UniProtKB	A0A093HMS9	N308_05810	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	441894	AgBase		P
+UniProtKB	A0A093HMS9	N308_05810	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	441894	AgBase		P
+UniProtKB	A0A093HWT4	N308_10337	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	441894	Ensembl		P
+UniProtKB	A0A093I5P4	N307_10277	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	118200	AgBase		P
+UniProtKB	A0A093I5P4	N307_10277	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	118200	AgBase		P
+UniProtKB	A0A093IDV1	N327_13803	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	30455	AgBase		P
+UniProtKB	A0A093IDV1	N327_13803	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	30455	AgBase		P
+UniProtKB	A0A093IST7	N326_04568	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	54383	AgBase		P
+UniProtKB	A0A093IST7	N326_04568	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	54383	AgBase		P
+UniProtKB	A0A093KER7	N308_06524	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	441894	Ensembl		P
+UniProtKB	A0A093P9L3	AS28_01328	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	9238	AgBase		P
+UniProtKB	A0A093P9L3	AS28_01328	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	9238	AgBase		P
+UniProtKB	A0A093PDX9	N305_02512	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	328815	AgBase		P
+UniProtKB	A0A093PDX9	N305_02512	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	328815	AgBase		P
+UniProtKB	A0A093PFI7	N305_10917	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	328815	Ensembl		P
+UniProtKB	A0A093PLS2	N305_10058	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	328815	Ensembl		P
+UniProtKB	A0A093PLS2	N305_10058	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	328815	Ensembl		P
+UniProtKB	A0A093PXV0	N305_13287	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	328815	Ensembl		P
+UniProtKB	A0A093Q264	N305_11393	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	328815	Ensembl		P
+UniProtKB	A0A094LH56	N338_06196	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	345573	AgBase		P
+UniProtKB	A0A094LH56	N338_06196	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	345573	AgBase		P
+UniProtKB	A0A094MXT1	N321_05698	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	279965	AgBase		P
+UniProtKB	A0A094MXT1	N321_05698	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	279965	AgBase		P
+UniProtKB	A0A096M493	A0A096M493	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A286YBL8|ensembl:ENSDARP00000144576	48698	Ensembl		P
+UniProtKB	A0A096MIX2	Ddx17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000266	ISO	GO_REF:0000096	UniProtKB:Q92841	10116	RGD		P
+UniProtKB	A0A096MIX2	Ddx17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	10116	Ensembl		P
+UniProtKB	A0A096MQZ8	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	9555	Ensembl		P
+UniProtKB	A0A096MT31	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9555	Ensembl		P
+UniProtKB	A0A096MUY0	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9555	Ensembl		P
+UniProtKB	A0A096MVB4	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9555	Ensembl		P
+UniProtKB	A0A096MY44	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9555	Ensembl		P
+UniProtKB	A0A096MY44	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9555	Ensembl		P
+UniProtKB	A0A096MZ93	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	9555	Ensembl		P
+UniProtKB	A0A096MZ93	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9555	Ensembl		P
+UniProtKB	A0A096MZX5	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	9555	Ensembl		P
+UniProtKB	A0A096N0R3	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9555	Ensembl		P
+UniProtKB	A0A096N1K5	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9555	Ensembl		P
+UniProtKB	A0A096N1K5	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9555	Ensembl		P
+UniProtKB	A0A096N2U8	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	9555	Ensembl		P
+UniProtKB	A0A096N2V4	A0A096N2V4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	9555	Ensembl		P
+UniProtKB	A0A096N3G4	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	9555	Ensembl		P
+UniProtKB	A0A096N517	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9555	Ensembl		P
+UniProtKB	A0A096N804	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	9555	Ensembl		P
+UniProtKB	A0A096N996	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	9555	Ensembl		P
+UniProtKB	A0A096NDA8	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	9555	Ensembl		P
+UniProtKB	A0A096NE69	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9555	Ensembl		P
+UniProtKB	A0A096NF71	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9555	Ensembl		P
+UniProtKB	A0A096NG24	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9555	Ensembl		P
+UniProtKB	A0A096NI95	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	9555	Ensembl		P
+UniProtKB	A0A096NJK6	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	9555	Ensembl		P
+UniProtKB	A0A096NK23	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9555	Ensembl		P
+UniProtKB	A0A096NRS2	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9555	Ensembl		P
+UniProtKB	A0A096NRS2	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9555	Ensembl		P
+UniProtKB	A0A096NRS2	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9555	Ensembl		P
+UniProtKB	A0A096NRS2	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9555	Ensembl		P
+UniProtKB	A0A096NXF0	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	9555	Ensembl		P
+UniProtKB	A0A096P0S7	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	9555	Ensembl		P
+UniProtKB	A0A096P283	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	9555	Ensembl		P
+UniProtKB	A0A096P4I2	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9555	Ensembl		P
+UniProtKB	A0A096P4P9	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	9555	Ensembl		P
+UniProtKB	A0A096P6C5	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9555	Ensembl		P
+UniProtKB	A0A099ZFD1	N309_02392	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	94827	AgBase		P
+UniProtKB	A0A099ZFD1	N309_02392	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	94827	AgBase		P
+UniProtKB	A0A099ZZR8	N301_10124	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:F1P0K1	50402	AgBase		P
+UniProtKB	A0A099ZZR8	N301_10124	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q07718	50402	AgBase		P
+UniProtKB	A0A0A0MXD5	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	9555	Ensembl		P
+UniProtKB	A0A0A6YXU9	Tgfb2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10090	Ensembl		P
+UniProtKB	A0A0A6YXU9	Tgfb2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10090	Ensembl		P
+UniProtKB	A0A0B5JK07	mdkb	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:18058915	ZFIN:ZDB-MRPHLNO-080722-1,ZFIN:ZDB-MRPHLNO-080722-2	7955	ZFIN		P
+UniProtKB	A0A0B5JK69	bmper	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:24089471	ZFIN:ZDB-MRPHLNO-060320-3	7955	ZFIN		P
+UniProtKB	A0A0B5JQ80	erbb2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000315	IMP	PMID:19911055	ZFIN:ZDB-GENO-100308-7	7955	ZFIN		P
+UniProtKB	A0A0D9QV72	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	60711	Ensembl		P
+UniProtKB	A0A0D9QVE2	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	60711	Ensembl		P
+UniProtKB	A0A0D9QVI6	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	60711	Ensembl		P
+UniProtKB	A0A0D9QWJ2	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	60711	Ensembl		P
+UniProtKB	A0A0D9QZI5	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	60711	Ensembl		P
+UniProtKB	A0A0D9QZN1	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	60711	Ensembl		P
+UniProtKB	A0A0D9R2U6	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	60711	Ensembl		P
+UniProtKB	A0A0D9R370	FLNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	60711	Ensembl		P
+UniProtKB	A0A0D9R447	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	60711	Ensembl		P
+UniProtKB	A0A0D9R586	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	60711	Ensembl		P
+UniProtKB	A0A0D9R8F0	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	60711	Ensembl		P
+UniProtKB	A0A0D9RA81	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	60711	Ensembl		P
+UniProtKB	A0A0D9RAE9	NOTCH4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	60711	Ensembl		P
+UniProtKB	A0A0D9RE18	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	60711	Ensembl		P
+UniProtKB	A0A0D9RE67	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	60711	Ensembl		P
+UniProtKB	A0A0D9RE87	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	60711	Ensembl		P
+UniProtKB	A0A0D9RER7	WNT2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	60711	Ensembl		P
+UniProtKB	A0A0D9RF96	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	60711	Ensembl		P
+UniProtKB	A0A0D9RGL9	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	60711	Ensembl		P
+UniProtKB	A0A0D9RGM3	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	60711	Ensembl		P
+UniProtKB	A0A0D9RH21	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	60711	Ensembl		P
+UniProtKB	A0A0D9RK65	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	60711	Ensembl		P
+UniProtKB	A0A0D9RKB7	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	60711	Ensembl		P
+UniProtKB	A0A0D9RKB7	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	60711	Ensembl		P
+UniProtKB	A0A0D9RKH4	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	60711	Ensembl		P
+UniProtKB	A0A0D9RM38	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	60711	Ensembl		P
+UniProtKB	A0A0D9RM38	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	60711	Ensembl		P
+UniProtKB	A0A0D9RM38	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	60711	Ensembl		P
+UniProtKB	A0A0D9RN07	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	60711	Ensembl		P
+UniProtKB	A0A0D9RN70	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	60711	Ensembl		P
+UniProtKB	A0A0D9RNL7	HIF1A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	60711	Ensembl		P
+UniProtKB	A0A0D9RP22	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	60711	Ensembl		P
+UniProtKB	A0A0D9RPA8	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	60711	Ensembl		P
+UniProtKB	A0A0D9RQL4	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	60711	Ensembl		P
+UniProtKB	A0A0D9RQT1	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	60711	Ensembl		P
+UniProtKB	A0A0D9RRC9	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	60711	Ensembl		P
+UniProtKB	A0A0D9RRC9	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	60711	Ensembl		P
+UniProtKB	A0A0D9RRC9	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	60711	Ensembl		P
+UniProtKB	A0A0D9RRF9	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	60711	Ensembl		P
+UniProtKB	A0A0D9RSA9	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	60711	Ensembl		P
+UniProtKB	A0A0D9RT60	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	60711	Ensembl		P
+UniProtKB	A0A0D9RT60	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	60711	Ensembl		P
+UniProtKB	A0A0D9RT86	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	60711	Ensembl		P
+UniProtKB	A0A0D9RTL0	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	60711	Ensembl		P
+UniProtKB	A0A0D9RTL0	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	60711	Ensembl		P
+UniProtKB	A0A0D9RTL0	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	60711	Ensembl		P
+UniProtKB	A0A0D9RTL0	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	60711	Ensembl		P
+UniProtKB	A0A0D9RUM4	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	60711	Ensembl		P
+UniProtKB	A0A0D9RUN7	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	60711	Ensembl		P
+UniProtKB	A0A0D9RUN7	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	60711	Ensembl		P
+UniProtKB	A0A0D9RUU1	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	60711	Ensembl		P
+UniProtKB	A0A0D9RUU1	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	60711	Ensembl		P
+UniProtKB	A0A0D9RVR2	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	60711	Ensembl		P
+UniProtKB	A0A0D9RVU3	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	60711	Ensembl		P
+UniProtKB	A0A0D9RVU3	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	60711	Ensembl		P
+UniProtKB	A0A0D9RXX8	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	60711	Ensembl		P
+UniProtKB	A0A0D9RYH3	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	60711	Ensembl		P
+UniProtKB	A0A0D9RZS6	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	60711	Ensembl		P
+UniProtKB	A0A0D9S1B9	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	60711	Ensembl		P
+UniProtKB	A0A0D9S2B8	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	60711	Ensembl		P
+UniProtKB	A0A0D9S4A5	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	60711	Ensembl		P
+UniProtKB	A0A0D9S5A3	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	60711	Ensembl		P
+UniProtKB	A0A0D9S5A7	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	60711	Ensembl		P
+UniProtKB	A0A0D9S6E6	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	60711	Ensembl		P
+UniProtKB	A0A0D9S6S4	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	60711	Ensembl		P
+UniProtKB	A0A0D9S6S4	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	60711	Ensembl		P
+UniProtKB	A0A0D9S7P1	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	60711	Ensembl		P
+UniProtKB	A0A0D9S7P1	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	60711	Ensembl		P
+UniProtKB	A0A0D9S7Y6	PEF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9UBV8|ensembl:ENSP00000362807	60711	Ensembl		P
+UniProtKB	A0A0D9S8A8	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	60711	Ensembl		P
+UniProtKB	A0A0D9S9B8	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	60711	Ensembl		P
+UniProtKB	A0A0D9S9B9	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	60711	Ensembl		P
+UniProtKB	A0A0F8BCH0	EH28_11645	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A286YBL8|ensembl:ENSDARP00000144576	215358	Ensembl		P
+UniProtKB	A0A0G2JSH4	Gsk3b	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	10116	Ensembl		P
+UniProtKB	A0A0G2JXL2	Nfatc1	acts_upstream_of_or_within	GO:0001837	epithelial to mesenchymal transition	ECO:0000266	ISO	GO_REF:0000096	MGI:MGI:102469	10116	RGD	occurs_in(EMAPA:16696)	P
+UniProtKB	A0A0G2K0H3	Lrp6	involved_in	GO:0014029	neural crest formation	ECO:0000266	ISO	GO_REF:0000096	UniProtKB:O75581	10116	RGD		P
+UniProtKB	A0A0G2K0H3	Lrp6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	10116	Ensembl		P
+UniProtKB	A0A0G2K4P0	Loxl2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	10116	Ensembl		P
+UniProtKB	A0A0G2K970	Smad4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	10116	Ensembl		P
+UniProtKB	A0A0H2UHP4	Cul7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	10116	Ensembl		P
+UniProtKB	A0A0H3UK16	si:ch73-18k18.1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	7955	GO_Central		P
+UniProtKB	A0A0J9R276	Dsim\GD22022	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NDI1|FlyBase:FBpp0080183	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9R276	Dsim\GD22022	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9BN18|FlyBase:FBpp0080183	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9R276	Dsim\GD22022	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KTA0|FlyBase:FBpp0080183	7240	EnsemblMetazoa		P
+UniProtKB	A0A0J9R2Q4	Dsim\GD24004	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P25932|FlyBase:FBpp0080293	7240	EnsemblMetazoa		P
+UniProtKB	A0A0P6J620	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	10181	Ensembl		P
+UniProtKB	A0A0P6J8W6	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	10181	Ensembl		P
+UniProtKB	A0A0P6JAL8	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	10181	Ensembl		P
+UniProtKB	A0A0P6JDR1	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	10181	Ensembl		P
+UniProtKB	A0A0P6JF39	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	10181	Ensembl		P
+UniProtKB	A0A0P6K750	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	10181	Ensembl		P
+UniProtKB	A0A0Q9WAP5	Dvir\GJ18069	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9NDI1|FlyBase:FBpp0080183	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WAP5	Dvir\GJ18069	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9BN18|FlyBase:FBpp0080183	7244	EnsemblMetazoa		P
+UniProtKB	A0A0Q9WAP5	Dvir\GJ18069	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7KTA0|FlyBase:FBpp0080183	7244	EnsemblMetazoa		P
+UniProtKB	A0A0R4IDS8	bmper	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:24089471	ZFIN:ZDB-MRPHLNO-060320-3	7955	ZFIN		P
+UniProtKB	A0A0R4IGC8	bmper	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:24089471	ZFIN:ZDB-MRPHLNO-060320-3	7955	ZFIN		P
+UniProtKB	A0A0R4IGF2	STAT3b1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000315	IMP	PMID:15129296		7955	ZFIN		P
+UniProtKB	A0A0R4IIF4	bmper	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:24089471	ZFIN:ZDB-MRPHLNO-060320-3	7955	ZFIN		P
+UniProtKB	A0A0R4IVY5	rock1	involved_in	GO:0003347	epicardial cell to mesenchymal cell transition	ECO:0000315	IMP	PMID:20858732		7955	BHF-UCL		P
+UniProtKB	A0A0R4IWE5	zeb2b	involved_in	GO:0014029	neural crest formation	ECO:0000316	IGI	PMID:18351671	ZFIN:ZDB-MRPHLNO-080717-4,ZFIN:ZDB-MRPHLNO-080717-6	7955	ZFIN		P
+UniProtKB	A0A0R4IWE5	zeb2b	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:18351671	ZFIN:ZDB-MRPHLNO-080717-6	7955	ZFIN		P
+UniProtKB	A0A0R4J097	Tgfbr3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	10090	Ensembl		P
+UniProtKB	A0A0R4J097	Tgfbr3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	10090	Ensembl		P
+UniProtKB	A0A0R4J0A9	Lrp6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	10090	Ensembl		P
+UniProtKB	A0A140T847	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	9913	Ensembl		P
+UniProtKB	A0A140TA97	Klhl12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	10116	Ensembl		P
+UniProtKB	A0A146PHJ3	A0A146PHJ3	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R6J7|ensembl:ENSDARP00000084452	8078	Ensembl		P
+UniProtKB	A0A146W641	A0A146W641	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	8078	Ensembl		P
+UniProtKB	A0A146W641	A0A146W641	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	8078	Ensembl		P
+UniProtKB	A0A146YVM8	A0A146YVM8	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5PQZ4|ensembl:ENSDARP00000123798	8078	Ensembl		P
+UniProtKB	A0A147B5J9	A0A147B5J9	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2CG09|ensembl:ENSDARP00000014581	8078	Ensembl		P
+UniProtKB	A0A1A8AQU3	ERBB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R5S1|ensembl:ENSDARP00000010252	105023	Ensembl		P
+UniProtKB	A0A1A8UD72	CNBPA	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	105023	Ensembl		P
+UniProtKB	A0A1A8UD72	CNBPA	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q6Z5|ensembl:ENSDARP00000067292	105023	Ensembl		P
+UniProtKB	A0A1B8YAB1	kbtbd8	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:26399832		8364	UniProt		P
+UniProtKB	A0A1D5NTF4	WNT2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	9031	Ensembl		P
+UniProtKB	A0A1D5NXF3	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9031	Ensembl		P
+UniProtKB	A0A1D5P4Z5	PEF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9UBV8|ensembl:ENSP00000362807	9031	Ensembl		P
+UniProtKB	A0A1D5PAE0	ENG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9031	GO_Central		P
+UniProtKB	A0A1D5PBF0	ADGRL2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000315	IMP	PMID:17250821		9031	AgBase		P
+UniProtKB	A0A1D5PD32	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9031	Ensembl		P
+UniProtKB	A0A1D5PVG0	SNAI2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000315	IMP	PMID:17250821		9031	AgBase		P
+UniProtKB	A0A1D5Q3S9	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	9544	Ensembl		P
+UniProtKB	A0A1D5Q829	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9544	Ensembl		P
+UniProtKB	A0A1D5QUD9	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9544	Ensembl		P
+UniProtKB	A0A1D5QUK7	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9544	Ensembl		P
+UniProtKB	A0A1D5R0X1	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9544	Ensembl		P
+UniProtKB	A0A1D5R3Z3	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9544	Ensembl		P
+UniProtKB	A0A1D5R3Z3	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9544	Ensembl		P
+UniProtKB	A0A1D5RHF0	TGFBR3L	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9544	GO_Central		P
+UniProtKB	A0A1D5RKL0	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9544	Ensembl		P
+UniProtKB	A0A1L1RIZ5	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	9031	Ensembl		P
+UniProtKB	A0A1L8F822	zic3.L	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8355	UniProt		P
+UniProtKB	A0A1L8GAG7	zic4.L	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8355	UniProt		P
+UniProtKB	A0A1L8GAZ5	zic1.L	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8355	UniProt		P
+UniProtKB	A0A1L8HH76	zic5.L	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8355	UniProt		P
+UniProtKB	A0A1S3ELA7	Snai2	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	10020	Ensembl		P
+UniProtKB	A0A1S3ELA7	Snai2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	10020	Ensembl		P
+UniProtKB	A0A1S3ELA7	Snai2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	10020	Ensembl		P
+UniProtKB	A0A1S3EPY8	Kbtbd8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	10020	Ensembl		P
+UniProtKB	A0A1S3ERL3	Bmp2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10020	Ensembl		P
+UniProtKB	A0A1S3ERL3	Bmp2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	10020	Ensembl		P
+UniProtKB	A0A1S3ERL3	Bmp2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10020	Ensembl		P
+UniProtKB	A0A1S3EZW9	Wnt11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	10020	Ensembl		P
+UniProtKB	A0A1S3F1Z3	Gsc	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	10020	Ensembl		P
+UniProtKB	A0A1S3F2T0	Efna1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	10020	Ensembl		P
+UniProtKB	A0A1S3F352	Tgfb2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10020	Ensembl		P
+UniProtKB	A0A1S3F352	Tgfb2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10020	Ensembl		P
+UniProtKB	A0A1S3F4Q3	Adam15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	10020	Ensembl		P
+UniProtKB	A0A1S3F6L2	Heyl	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10020	Ensembl		P
+UniProtKB	A0A1S3F6L2	Heyl	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10020	Ensembl		P
+UniProtKB	A0A1S3FFR6	Gsk3b	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	10020	Ensembl		P
+UniProtKB	A0A1S3FGH5	Wnt2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	10020	Ensembl		P
+UniProtKB	A0A1S3FHA0	Wnt16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	10020	Ensembl		P
+UniProtKB	A0A1S3FS18	Msx1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10020	Ensembl		P
+UniProtKB	A0A1S3FS18	Msx1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10020	Ensembl		P
+UniProtKB	A0A1S3FWI9	Sfrp1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	10020	Ensembl		P
+UniProtKB	A0A1S3FZR2	Fgfr1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	10020	Ensembl		P
+UniProtKB	A0A1S3G0F2	Hey2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	10020	Ensembl		P
+UniProtKB	A0A1S3G0F2	Hey2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	10020	Ensembl		P
+UniProtKB	A0A1S3GAB6	Ednra	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	10020	Ensembl		P
+UniProtKB	A0A1S3GBP7	Wnt5a	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	10020	Ensembl		P
+UniProtKB	A0A1S3GBP7	Wnt5a	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	10020	Ensembl		P
+UniProtKB	A0A1S3GCB1	LOC105996371	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	10020	Ensembl		P
+UniProtKB	A0A1S3GFT9	Has2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	10020	Ensembl		P
+UniProtKB	A0A1S3GLW9	Loxl2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	10020	Ensembl		P
+UniProtKB	A0A1S3GS85	Flna	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	10020	Ensembl		P
+UniProtKB	A0A1S3GWW2	Nog	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	10020	Ensembl		P
+UniProtKB	A0A1S3GX21	Tmem100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	10020	Ensembl		P
+UniProtKB	A0A1S3GZA6	Ddx5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	10020	Ensembl		P
+UniProtKB	A0A1S3N2L5	polr1b	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B8JKD7|ensembl:ENSDARP00000100185	8030	Ensembl		P
+UniProtKB	A0A1S6L757	stat3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000315	IMP	PMID:15129296		7955	ZFIN		P
+UniProtKB	A0A1U7Q3D9	Pdcd6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	10036	Ensembl		P
+UniProtKB	A0A1U7Q3P7	Msx2	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03358|ensembl:ENSMUSP00000021922	10036	Ensembl		P
+UniProtKB	A0A1U7Q3Q6	Edn1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	10036	Ensembl		P
+UniProtKB	A0A1U7Q914	Sfrp1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	10036	Ensembl		P
+UniProtKB	A0A1U7Q9I4	Bmp2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10036	Ensembl		P
+UniProtKB	A0A1U7Q9I4	Bmp2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	10036	Ensembl		P
+UniProtKB	A0A1U7Q9I4	Bmp2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10036	Ensembl		P
+UniProtKB	A0A1U7Q9N5	Msx1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10036	Ensembl		P
+UniProtKB	A0A1U7Q9N5	Msx1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10036	Ensembl		P
+UniProtKB	A0A1U7Q9X9	Rflnb	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	10036	Ensembl		P
+UniProtKB	A0A1U7QDG5	Sox9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	10036	Ensembl		P
+UniProtKB	A0A1U7QGV4	Hey2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	10036	Ensembl		P
+UniProtKB	A0A1U7QGV4	Hey2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	10036	Ensembl		P
+UniProtKB	A0A1U7QKI5	Nog	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	10036	Ensembl		P
+UniProtKB	A0A1U7QKU4	Wnt4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	10036	Ensembl		P
+UniProtKB	A0A1U7QL19	Snai1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	10036	Ensembl		P
+UniProtKB	A0A1U7QL19	Snai1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	10036	Ensembl		P
+UniProtKB	A0A1U7QL19	Snai1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	10036	Ensembl		P
+UniProtKB	A0A1U7QNR0	Wnt5a	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	10036	Ensembl		P
+UniProtKB	A0A1U7QNR0	Wnt5a	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	10036	Ensembl		P
+UniProtKB	A0A1U7QQK5	Tgfbr1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	10036	Ensembl		P
+UniProtKB	A0A1U7QR26	Kbtbd8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	10036	Ensembl		P
+UniProtKB	A0A1U7QR83	Heyl	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10036	Ensembl		P
+UniProtKB	A0A1U7QR83	Heyl	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10036	Ensembl		P
+UniProtKB	A0A1U7QRP0	Ednra	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	10036	Ensembl		P
+UniProtKB	A0A1U7QSQ3	Snai2	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	10036	Ensembl		P
+UniProtKB	A0A1U7QSQ3	Snai2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	10036	Ensembl		P
+UniProtKB	A0A1U7QSQ3	Snai2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97469|ensembl:ENSMUSP00000023356	10036	Ensembl		P
+UniProtKB	A0A1U7QT03	Efna1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	10036	Ensembl		P
+UniProtKB	A0A1U7QWI9	Tgfb2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10036	Ensembl		P
+UniProtKB	A0A1U7QWI9	Tgfb2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	10036	Ensembl		P
+UniProtKB	A0A1U7QZT4	Wnt16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	10036	Ensembl		P
+UniProtKB	A0A1U7R079	Loxl3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	10036	Ensembl		P
+UniProtKB	A0A1U7R7V5	Lef1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	10036	Ensembl		P
+UniProtKB	A0A1U7RBG7	Notch1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	10036	Ensembl		P
+UniProtKB	A0A1U7RBG7	Notch1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	10036	Ensembl		P
+UniProtKB	A0A1U7RBG7	Notch1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	10036	Ensembl		P
+UniProtKB	A0A1U7RBG7	Notch1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	10036	Ensembl		P
+UniProtKB	A0A1U7TB83	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	1868482	Ensembl		P
+UniProtKB	A0A1U7TB83	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	1868482	Ensembl		P
+UniProtKB	A0A1U7THV7	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	1868482	Ensembl		P
+UniProtKB	A0A1U7THV7	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	1868482	Ensembl		P
+UniProtKB	A0A1U7TJB5	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	1868482	Ensembl		P
+UniProtKB	A0A1U7TQ01	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	1868482	Ensembl		P
+UniProtKB	A0A1U7TQQ5	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	1868482	Ensembl		P
+UniProtKB	A0A1U7UE42	NOTCH4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	1868482	Ensembl		P
+UniProtKB	A0A1U7UJ08	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	1868482	Ensembl		P
+UniProtKB	A0A1U7UJ08	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	1868482	Ensembl		P
+UniProtKB	A0A1U7UN99	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	1868482	Ensembl		P
+UniProtKB	A0A1U7UQQ3	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	1868482	Ensembl		P
+UniProtKB	A0A1U8BRT1	Ddx5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	10036	Ensembl		P
+UniProtKB	A0A1U8C3S7	Tmem100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	10036	Ensembl		P
+UniProtKB	A0A1U8CGQ5	Eomes	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O54839|ensembl:ENSMUSP00000035020	10036	Ensembl		P
+UniProtKB	A0A1U8CRG4	Has2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	10036	Ensembl		P
+UniProtKB	A0A218UB14	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	299123	Ensembl		P
+UniProtKB	A0A218UB14	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	299123	Ensembl		P
+UniProtKB	A0A218UGX0	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	299123	Ensembl		P
+UniProtKB	A0A218UGX0	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	299123	Ensembl		P
+UniProtKB	A0A218UGX0	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	299123	Ensembl		P
+UniProtKB	A0A218UHD1	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	299123	Ensembl		P
+UniProtKB	A0A218UHD1	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	299123	Ensembl		P
+UniProtKB	A0A218UJ63	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	299123	Ensembl		P
+UniProtKB	A0A218UJ89	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	299123	Ensembl		P
+UniProtKB	A0A218URT5	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	299123	Ensembl		P
+UniProtKB	A0A218UUX3	SDHAF2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C6I2|ensembl:ENSMUSP00000025570	299123	Ensembl		P
+UniProtKB	A0A218UVB1	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	299123	Ensembl		P
+UniProtKB	A0A218UWD1	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	299123	Ensembl		P
+UniProtKB	A0A218UZK9	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000447297	299123	Ensembl		P
+UniProtKB	A0A218UZT3	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	299123	Ensembl		P
+UniProtKB	A0A218V2P6	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257566	299123	Ensembl		P
+UniProtKB	A0A218V4W4	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	299123	Ensembl		P
+UniProtKB	A0A218V4W4	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	299123	Ensembl		P
+UniProtKB	A0A218V8V8	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	299123	Ensembl		P
+UniProtKB	A0A218V9L5	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	299123	Ensembl		P
+UniProtKB	A0A218VAE6	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	299123	Ensembl		P
+UniProtKB	A0A218VDI5	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	299123	Ensembl		P
+UniProtKB	A0A218VDI5	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	299123	Ensembl		P
+UniProtKB	A0A218VFM9	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	299123	Ensembl		P
+UniProtKB	A0A218VFM9	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	299123	Ensembl		P
+UniProtKB	A0A250XV13	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	51338	Ensembl		P
+UniProtKB	A0A250XVP0	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	51338	Ensembl		P
+UniProtKB	A0A250XWE9	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	51338	Ensembl		P
+UniProtKB	A0A250XZB3	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	51338	Ensembl		P
+UniProtKB	A0A250Y0N5	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	51338	Ensembl		P
+UniProtKB	A0A250Y839	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	51338	Ensembl		P
+UniProtKB	A0A250YAS0	SDHAF2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C6I2|ensembl:ENSMUSP00000025570	51338	Ensembl		P
+UniProtKB	A0A250YCH8	FAM101B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	51338	Ensembl		P
+UniProtKB	A0A250YEX6	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	51338	Ensembl		P
+UniProtKB	A0A250YEX6	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	51338	Ensembl		P
+UniProtKB	A0A250YLG5	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	51338	Ensembl		P
+UniProtKB	A0A286X7U3	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	10141	Ensembl		P
+UniProtKB	A0A286XBA2	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	10141	Ensembl		P
+UniProtKB	A0A286XCB7	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	10141	Ensembl		P
+UniProtKB	A0A286XD12	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	10141	Ensembl		P
+UniProtKB	A0A286XD12	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	10141	Ensembl		P
+UniProtKB	A0A286XDN5	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	10141	Ensembl		P
+UniProtKB	A0A286XLB5	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	10141	Ensembl		P
+UniProtKB	A0A286XLK1	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10141	Ensembl		P
+UniProtKB	A0A286XLK1	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10141	Ensembl		P
+UniProtKB	A0A286XNP9	FLNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	10141	Ensembl		P
+UniProtKB	A0A286XP21	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	10141	Ensembl		P
+UniProtKB	A0A286XQY2	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	10141	Ensembl		P
+UniProtKB	A0A286XRM9	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	10141	Ensembl		P
+UniProtKB	A0A286XSC0	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	10141	Ensembl		P
+UniProtKB	A0A286XTW8	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	10141	Ensembl		P
+UniProtKB	A0A286XWB9	MSX2	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03358|ensembl:ENSMUSP00000021922	10141	Ensembl		P
+UniProtKB	A0A286XY80	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10141	Ensembl		P
+UniProtKB	A0A286XY80	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	10141	Ensembl		P
+UniProtKB	A0A286XY80	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	10141	Ensembl		P
+UniProtKB	A0A286XY80	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P12643	10141	UniProt		P
+UniProtKB	A0A286XY80	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:P12643	10141	UniProt		P
+UniProtKB	A0A286XZK5	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10141	Ensembl		P
+UniProtKB	A0A286XZK5	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	10141	Ensembl		P
+UniProtKB	A0A286Y2C2	A0A286Y2C2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	10141	Ensembl		P
+UniProtKB	A0A286Y3U0	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	10141	Ensembl		P
+UniProtKB	A0A286Y942	zeb2a	involved_in	GO:0014029	neural crest formation	ECO:0000316	IGI	PMID:18351671	ZFIN:ZDB-MRPHLNO-080717-4,ZFIN:ZDB-MRPHLNO-080717-6	7955	ZFIN		P
+UniProtKB	A0A286Y942	zeb2a	involved_in	GO:0014029	neural crest formation	ECO:0000315	IMP	PMID:18351671	ZFIN:ZDB-MRPHLNO-080717-4	7955	ZFIN		P
+UniProtKB	A0A286YBL8	ptpn21	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000314	IDA	PMID:17893246		7955	ZFIN		P
+UniProtKB	A0A286ZV08	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9823	Ensembl		P
+UniProtKB	A0A286ZV08	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9823	Ensembl		P
+UniProtKB	A0A286ZYD4	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9823	Ensembl		P
+UniProtKB	A0A286ZZE2	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9823	Ensembl		P
+UniProtKB	A0A286ZZE2	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	9823	Ensembl		P
+UniProtKB	A0A286ZZE2	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9823	Ensembl		P
+UniProtKB	A0A287A115	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	9823	Ensembl		P
+UniProtKB	A0A287A1J0	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	9823	Ensembl		P
+UniProtKB	A0A287A1J0	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9823	Ensembl		P
+UniProtKB	A0A287A3B7	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9823	Ensembl		P
+UniProtKB	A0A287A3B7	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9823	Ensembl		P
+UniProtKB	A0A287A5Q5	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9823	Ensembl		P
+UniProtKB	A0A287AAJ4	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9823	Ensembl		P
+UniProtKB	A0A287AG59	TGFBR3L	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9823	GO_Central		P
+UniProtKB	A0A287AHA8	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9823	Ensembl		P
+UniProtKB	A0A287AM88	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	9823	Ensembl		P
+UniProtKB	A0A287AN30	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	9823	Ensembl		P
+UniProtKB	A0A287B1L8	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9823	Ensembl		P
+UniProtKB	A0A287B1L8	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9823	Ensembl		P
+UniProtKB	A0A287B1L8	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9823	Ensembl		P
+UniProtKB	A0A287B1L8	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9823	Ensembl		P
+UniProtKB	A0A287B2D0	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9823	Ensembl		P
+UniProtKB	A0A287B2D0	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	9823	Ensembl		P
+UniProtKB	A0A287B2D0	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9823	Ensembl		P
+UniProtKB	A0A287B2Q0	HIF1A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9823	Ensembl		P
+UniProtKB	A0A287B2V7	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9823	Ensembl		P
+UniProtKB	A0A287B4Y7	WNT2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	9823	Ensembl		P
+UniProtKB	A0A287B5Q4	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9823	Ensembl		P
+UniProtKB	A0A287B9H4	LOC100737755	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	9823	Ensembl		P
+UniProtKB	A0A287BC73	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9823	Ensembl		P
+UniProtKB	A0A287BLH5	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9823	Ensembl		P
+UniProtKB	A0A287BLR9	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9823	Ensembl		P
+UniProtKB	A0A287BNE9	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	9823	Ensembl		P
+UniProtKB	A0A287BPI7	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9823	Ensembl		P
+UniProtKB	A0A287BPI7	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9823	Ensembl		P
+UniProtKB	A0A287CVB8	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	43179	Ensembl		P
+UniProtKB	A0A287CX86	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	43179	Ensembl		P
+UniProtKB	A0A287CX86	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	43179	Ensembl		P
+UniProtKB	A0A287D081	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	43179	Ensembl		P
+UniProtKB	A0A287D0Q7	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	43179	Ensembl		P
+UniProtKB	A0A287D134	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	43179	Ensembl		P
+UniProtKB	A0A287DAQ2	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	43179	Ensembl		P
+UniProtKB	A0A287DG94	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	43179	Ensembl		P
+UniProtKB	A0A2D0PLV7	kat6a	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A2CG09|ensembl:ENSDARP00000014581	7998	Ensembl		P
+UniProtKB	A0A2D0PP13	tfap2a	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A2R8QRQ5|ensembl:ENSDARP00000157668	7998	Ensembl		P
+UniProtKB	A0A2D0QP52	polr1b	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B8JKD7|ensembl:ENSDARP00000100185	7998	Ensembl		P
+UniProtKB	A0A2D0QWV8	LOC108265264	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B8JL25|ensembl:ENSDARP00000003051	7998	Ensembl		P
+UniProtKB	A0A2D0R7D9	rock1	involved_in	GO:0003347	epicardial cell to mesenchymal cell transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0R4IVY5|ensembl:ENSDARP00000141411	7998	Ensembl		P
+UniProtKB	A0A2D0RLL7	ptpn21	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A286YBL8|ensembl:ENSDARP00000144576	7998	Ensembl		P
+UniProtKB	A0A2D0S519	LOC108273067	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1R6J7|ensembl:ENSDARP00000084452	7998	Ensembl		P
+UniProtKB	A0A2D0SDW8	LOC108274967	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DDG2|ensembl:ENSDARP00000018513	7998	Ensembl		P
+UniProtKB	A0A2D0T7C1	bmper	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:A0A0R4IDS8|ensembl:ENSDARP00000133233	7998	Ensembl		P
+UniProtKB	A0A2G9P7K0	AB205_0187880	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8400	UniProt		P
+UniProtKB	A0A2G9P8R9	AB205_0187880	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8400	UniProt		P
+UniProtKB	A0A2G9RJE0	AB205_0055790	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8400	UniProt		P
+UniProtKB	A0A2G9RZL1	AB205_0196770	involved_in	GO:0014029	neural crest formation	ECO:0007669	IEA	GO_REF:0000117	ARBA:ARBA00027170	8400	UniProt		P
+UniProtKB	A0A2I2U242	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9685	Ensembl		P
+UniProtKB	A0A2I2U5K7	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9685	Ensembl		P
+UniProtKB	A0A2I2UD44	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	9685	Ensembl		P
+UniProtKB	A0A2I2UEZ4	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9685	Ensembl		P
+UniProtKB	A0A2I2UEZ4	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	9685	Ensembl		P
+UniProtKB	A0A2I2UEZ4	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9685	Ensembl		P
+UniProtKB	A0A2I2UFR8	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	9685	Ensembl		P
+UniProtKB	A0A2I2UJQ9	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9685	Ensembl		P
+UniProtKB	A0A2I2UJQ9	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9685	Ensembl		P
+UniProtKB	A0A2I2UK29	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9685	Ensembl		P
+UniProtKB	A0A2I2UKQ9	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	9685	Ensembl		P
+UniProtKB	A0A2I2UR94	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9685	Ensembl		P
+UniProtKB	A0A2I2UX53	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9685	Ensembl		P
+UniProtKB	A0A2I2UXM8	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9685	Ensembl		P
+UniProtKB	A0A2I2V181	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9685	Ensembl		P
+UniProtKB	A0A2I2V181	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9685	Ensembl		P
+UniProtKB	A0A2I2V3V8	FLNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	9685	Ensembl		P
+UniProtKB	A0A2I2YW63	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9595	Ensembl		P
+UniProtKB	A0A2I2YWL2	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9595	Ensembl		P
+UniProtKB	A0A2I2YXV6	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9595	Ensembl		P
+UniProtKB	A0A2I2Z3S8	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	9595	Ensembl		P
+UniProtKB	A0A2I2ZEX2	TGFBR3L	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9595	GO_Central		P
+UniProtKB	A0A2I2ZIZ8	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9595	Ensembl		P
+UniProtKB	A0A2I2ZJC9	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9595	Ensembl		P
+UniProtKB	A0A2I2ZK09	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9595	Ensembl		P
+UniProtKB	A0A2I2ZPQ6	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9595	Ensembl		P
+UniProtKB	A0A2I2ZVD2	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9595	Ensembl		P
+UniProtKB	A0A2I3FW78	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	61853	Ensembl		P
+UniProtKB	A0A2I3FYI9	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	61853	Ensembl		P
+UniProtKB	A0A2I3FZV1	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	61853	Ensembl		P
+UniProtKB	A0A2I3G294	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	61853	Ensembl		P
+UniProtKB	A0A2I3G2H3	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	61853	Ensembl		P
+UniProtKB	A0A2I3G398	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	61853	Ensembl		P
+UniProtKB	A0A2I3G6W7	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	61853	Ensembl		P
+UniProtKB	A0A2I3GID0	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	61853	Ensembl		P
+UniProtKB	A0A2I3GK51	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	61853	Ensembl		P
+UniProtKB	A0A2I3GUR9	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	61853	Ensembl		P
+UniProtKB	A0A2I3H9G1	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	61853	Ensembl		P
+UniProtKB	A0A2I3HC40	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	61853	Ensembl		P
+UniProtKB	A0A2I3HGG6	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	61853	Ensembl		P
+UniProtKB	A0A2I3HGL4	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	61853	Ensembl		P
+UniProtKB	A0A2I3HK74	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	61853	Ensembl		P
+UniProtKB	A0A2I3HLE2	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	61853	Ensembl		P
+UniProtKB	A0A2I3HUJ8	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	61853	Ensembl		P
+UniProtKB	A0A2I3HVP1	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	61853	Ensembl		P
+UniProtKB	A0A2I3HYP2	HIF1A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	61853	Ensembl		P
+UniProtKB	A0A2I3LGY3	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9555	Ensembl		P
+UniProtKB	A0A2I3LKM7	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9555	Ensembl		P
+UniProtKB	A0A2I3LNE5	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9555	Ensembl		P
+UniProtKB	A0A2I3LR70	A0A2I3LR70	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9555	Ensembl		P
+UniProtKB	A0A2I3LY21	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	9555	Ensembl		P
+UniProtKB	A0A2I3M4R0	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9555	Ensembl		P
+UniProtKB	A0A2I3M5E1	A0A2I3M5E1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9555	Ensembl		P
+UniProtKB	A0A2I3MGW1	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9555	Ensembl		P
+UniProtKB	A0A2I3MJH5	A0A2I3MJH5	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9555	Ensembl		P
+UniProtKB	A0A2I3MME8	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	9555	Ensembl		P
+UniProtKB	A0A2I3MNT7	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9555	Ensembl		P
+UniProtKB	A0A2I3MNT7	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9555	Ensembl		P
+UniProtKB	A0A2I3MVB6	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9555	Ensembl		P
+UniProtKB	A0A2I3MVB6	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9555	Ensembl		P
+UniProtKB	A0A2I3N425	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9555	Ensembl		P
+UniProtKB	A0A2I3N425	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9555	Ensembl		P
+UniProtKB	A0A2I3NGA1	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9555	Ensembl		P
+UniProtKB	A0A2I3RAU7	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9598	Ensembl		P
+UniProtKB	A0A2I3REK7	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9598	Ensembl		P
+UniProtKB	A0A2I3RLN7	TGFBR3L	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9598	GO_Central		P
+UniProtKB	A0A2I3RMA9	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9598	Ensembl		P
+UniProtKB	A0A2I3RN48	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	9598	Ensembl		P
+UniProtKB	A0A2I3RNZ4	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000318	IBA	PMID:21873635	MGI:MGI:95392|PANTHER:PTN004450156|UniProtKB:Q03167|UniProtKB:Q90998	9598	GO_Central		P
+UniProtKB	A0A2I3RNZ4	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9598	Ensembl		P
+UniProtKB	A0A2I3RNZ4	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9598	Ensembl		P
+UniProtKB	A0A2I3RVL9	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	9598	Ensembl		P
+UniProtKB	A0A2I3S7X1	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9598	Ensembl		P
+UniProtKB	A0A2I3SAT0	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9598	Ensembl		P
+UniProtKB	A0A2I3SF78	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9598	Ensembl		P
+UniProtKB	A0A2I3SSM9	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9598	Ensembl		P
+UniProtKB	A0A2I3SXI2	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9598	Ensembl		P
+UniProtKB	A0A2I3T6I0	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9598	Ensembl		P
+UniProtKB	A0A2I3T7H8	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9598	Ensembl		P
+UniProtKB	A0A2J8P7Y2	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9598	Ensembl		P
+UniProtKB	A0A2J8R331	CR201_G0054449	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	9601	Ensembl		P
+UniProtKB	A0A2J8RFX1	CR201_G0051227	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9601	Ensembl		P
+UniProtKB	A0A2J8RFX1	CR201_G0051227	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9601	Ensembl		P
+UniProtKB	A0A2J8RLU4	CR201_G0049933	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	9601	Ensembl		P
+UniProtKB	A0A2J8RMT0	CR201_G0049823	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9601	Ensembl		P
+UniProtKB	A0A2J8RMT0	CR201_G0049823	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9601	Ensembl		P
+UniProtKB	A0A2J8RMT0	CR201_G0049823	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9601	Ensembl		P
+UniProtKB	A0A2J8RMT0	CR201_G0049823	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9601	Ensembl		P
+UniProtKB	A0A2J8RS20	CR201_G0049031	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9601	Ensembl		P
+UniProtKB	A0A2J8RS20	CR201_G0049031	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9601	Ensembl		P
+UniProtKB	A0A2J8S558	CR201_G0046097	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	9601	Ensembl		P
+UniProtKB	A0A2J8SF77	CR201_G0043603	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9601	Ensembl		P
+UniProtKB	A0A2J8SF77	CR201_G0043603	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	9601	Ensembl		P
+UniProtKB	A0A2J8SF77	CR201_G0043603	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9601	Ensembl		P
+UniProtKB	A0A2J8SR03	CR201_G0041118	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9601	Ensembl		P
+UniProtKB	A0A2J8T110	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	9601	Ensembl		P
+UniProtKB	A0A2J8T110	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9601	Ensembl		P
+UniProtKB	A0A2J8TCL5	CR201_G0036162	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	9601	Ensembl		P
+UniProtKB	A0A2J8TCL5	CR201_G0036162	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	9601	Ensembl		P
+UniProtKB	A0A2J8TP17	CR201_G0033368	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9601	Ensembl		P
+UniProtKB	A0A2J8TP24	CR201_G0033322	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9601	Ensembl		P
+UniProtKB	A0A2J8U557	CR201_G0030149	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9601	Ensembl		P
+UniProtKB	A0A2J8UK74	CR201_G0027620	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	9601	Ensembl		P
+UniProtKB	A0A2J8UPD4	CR201_G0026294	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	9601	Ensembl		P
+UniProtKB	A0A2J8UWJ3	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9601	Ensembl		P
+UniProtKB	A0A2J8UXD4	CR201_G0024070	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9601	Ensembl		P
+UniProtKB	A0A2J8VGA9	CR201_G0019116	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	9601	Ensembl		P
+UniProtKB	A0A2J8VJX0	CR201_G0018754	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	9601	Ensembl		P
+UniProtKB	A0A2J8WLM8	CR201_G0009767	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9601	Ensembl		P
+UniProtKB	A0A2J8WN09	CR201_G0009389	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9601	Ensembl		P
+UniProtKB	A0A2J8WRQ4	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	9601	Ensembl		P
+UniProtKB	A0A2J8WSH4	CR201_G0008219	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9601	Ensembl		P
+UniProtKB	A0A2J8X2V3	CR201_G0005532	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	9601	Ensembl		P
+UniProtKB	A0A2J8XB27	CR201_G0002979	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9601	Ensembl		P
+UniProtKB	A0A2J8XC50	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9601	Ensembl		P
+UniProtKB	A0A2J8XCS2	CR201_G0003357	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9601	Ensembl		P
+UniProtKB	A0A2J8XGM0	CR201_G0002342	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9601	Ensembl		P
+UniProtKB	A0A2J8XNP6	CR201_G0000101	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	9601	Ensembl		P
+UniProtKB	A0A2J8XYE8	CR201_G0023542	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9601	Ensembl		P
+UniProtKB	A0A2J8XYG3	CR201_G0023555	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9601	Ensembl		P
+UniProtKB	A0A2K5BW44	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	37293	Ensembl		P
+UniProtKB	A0A2K5BX29	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	37293	Ensembl		P
+UniProtKB	A0A2K5BX29	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	37293	Ensembl		P
+UniProtKB	A0A2K5BXU2	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	37293	Ensembl		P
+UniProtKB	A0A2K5C2W3	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	37293	Ensembl		P
+UniProtKB	A0A2K5C2W3	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	37293	Ensembl		P
+UniProtKB	A0A2K5CBT2	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	37293	Ensembl		P
+UniProtKB	A0A2K5CC70	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	37293	Ensembl		P
+UniProtKB	A0A2K5CDE8	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	37293	Ensembl		P
+UniProtKB	A0A2K5CDV9	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	37293	Ensembl		P
+UniProtKB	A0A2K5CF76	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	37293	Ensembl		P
+UniProtKB	A0A2K5CFB0	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	37293	Ensembl		P
+UniProtKB	A0A2K5CIN7	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	37293	Ensembl		P
+UniProtKB	A0A2K5CJE4	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	37293	Ensembl		P
+UniProtKB	A0A2K5CP48	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	37293	Ensembl		P
+UniProtKB	A0A2K5CPQ9	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	37293	Ensembl		P
+UniProtKB	A0A2K5CQT4	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	37293	Ensembl		P
+UniProtKB	A0A2K5CQT4	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	37293	Ensembl		P
+UniProtKB	A0A2K5CSA5	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	37293	Ensembl		P
+UniProtKB	A0A2K5D1A3	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	37293	Ensembl		P
+UniProtKB	A0A2K5D1A3	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	37293	Ensembl		P
+UniProtKB	A0A2K5D1A3	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	37293	Ensembl		P
+UniProtKB	A0A2K5D1A3	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	37293	Ensembl		P
+UniProtKB	A0A2K5D1Y0	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	37293	Ensembl		P
+UniProtKB	A0A2K5D775	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	37293	Ensembl		P
+UniProtKB	A0A2K5DDP5	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	37293	Ensembl		P
+UniProtKB	A0A2K5DFC8	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	37293	Ensembl		P
+UniProtKB	A0A2K5DIT6	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	37293	Ensembl		P
+UniProtKB	A0A2K5DLA5	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	37293	Ensembl		P
+UniProtKB	A0A2K5DLA5	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	37293	Ensembl		P
+UniProtKB	A0A2K5DLA5	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	37293	Ensembl		P
+UniProtKB	A0A2K5DMZ1	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	37293	Ensembl		P
+UniProtKB	A0A2K5DMZ1	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	37293	Ensembl		P
+UniProtKB	A0A2K5DRS3	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	37293	Ensembl		P
+UniProtKB	A0A2K5DSP4	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	37293	Ensembl		P
+UniProtKB	A0A2K5DTL0	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	37293	Ensembl		P
+UniProtKB	A0A2K5DV66	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	37293	Ensembl		P
+UniProtKB	A0A2K5DV66	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	37293	Ensembl		P
+UniProtKB	A0A2K5DXA5	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	37293	Ensembl		P
+UniProtKB	A0A2K5DXG5	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	37293	Ensembl		P
+UniProtKB	A0A2K5DZN2	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	37293	Ensembl		P
+UniProtKB	A0A2K5E0D8	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	37293	Ensembl		P
+UniProtKB	A0A2K5E120	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	37293	Ensembl		P
+UniProtKB	A0A2K5E1W8	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	37293	Ensembl		P
+UniProtKB	A0A2K5E3Y0	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	37293	Ensembl		P
+UniProtKB	A0A2K5E4U2	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	37293	Ensembl		P
+UniProtKB	A0A2K5E543	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	37293	Ensembl		P
+UniProtKB	A0A2K5E8B2	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	37293	Ensembl		P
+UniProtKB	A0A2K5E8F0	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	37293	Ensembl		P
+UniProtKB	A0A2K5E8F0	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	37293	Ensembl		P
+UniProtKB	A0A2K5ED39	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	37293	Ensembl		P
+UniProtKB	A0A2K5EGY9	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	37293	Ensembl		P
+UniProtKB	A0A2K5EH62	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	37293	Ensembl		P
+UniProtKB	A0A2K5EHH8	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	37293	Ensembl		P
+UniProtKB	A0A2K5ELM8	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	37293	Ensembl		P
+UniProtKB	A0A2K5ELM8	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	37293	Ensembl		P
+UniProtKB	A0A2K5ELM8	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	37293	Ensembl		P
+UniProtKB	A0A2K5EPF5	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	37293	Ensembl		P
+UniProtKB	A0A2K5ERT8	A0A2K5ERT8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52926|ensembl:ENSP00000384026	37293	Ensembl		P
+UniProtKB	A0A2K5EV49	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	37293	Ensembl		P
+UniProtKB	A0A2K5EV49	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	37293	Ensembl		P
+UniProtKB	A0A2K5H7T4	A0A2K5H7T4	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	336983	Ensembl		P
+UniProtKB	A0A2K5H918	A0A2K5H918	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	336983	Ensembl		P
+UniProtKB	A0A2K5HBL7	A0A2K5HBL7	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	336983	Ensembl		P
+UniProtKB	A0A2K5HBL7	A0A2K5HBL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	336983	Ensembl		P
+UniProtKB	A0A2K5HCZ1	A0A2K5HCZ1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	336983	Ensembl		P
+UniProtKB	A0A2K5HDZ0	A0A2K5HDZ0	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	336983	Ensembl		P
+UniProtKB	A0A2K5HEP6	A0A2K5HEP6	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	336983	Ensembl		P
+UniProtKB	A0A2K5HI05	A0A2K5HI05	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	336983	Ensembl		P
+UniProtKB	A0A2K5HI31	A0A2K5HI31	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	336983	Ensembl		P
+UniProtKB	A0A2K5HIQ4	SDHAF2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C6I2|ensembl:ENSMUSP00000025570	336983	Ensembl		P
+UniProtKB	A0A2K5HL07	A0A2K5HL07	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	336983	Ensembl		P
+UniProtKB	A0A2K5HTM0	A0A2K5HTM0	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	336983	Ensembl		P
+UniProtKB	A0A2K5HXK2	A0A2K5HXK2	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	336983	Ensembl		P
+UniProtKB	A0A2K5I1Q9	A0A2K5I1Q9	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Z0E2|ensembl:ENSMUSP00000007171	336983	Ensembl		P
+UniProtKB	A0A2K5I7B9	A0A2K5I7B9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	336983	Ensembl		P
+UniProtKB	A0A2K5I8V8	A0A2K5I8V8	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	336983	Ensembl		P
+UniProtKB	A0A2K5I8V8	A0A2K5I8V8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	336983	Ensembl		P
+UniProtKB	A0A2K5I8V8	A0A2K5I8V8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	336983	Ensembl		P
+UniProtKB	A0A2K5IAK5	A0A2K5IAK5	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	336983	Ensembl		P
+UniProtKB	A0A2K5IDK5	A0A2K5IDK5	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257566	336983	Ensembl		P
+UniProtKB	A0A2K5IDT1	A0A2K5IDT1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	336983	Ensembl		P
+UniProtKB	A0A2K5IFP2	A0A2K5IFP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	336983	Ensembl		P
+UniProtKB	A0A2K5IFP2	A0A2K5IFP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	336983	Ensembl		P
+UniProtKB	A0A2K5IG11	A0A2K5IG11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	336983	Ensembl		P
+UniProtKB	A0A2K5IHN5	A0A2K5IHN5	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	336983	Ensembl		P
+UniProtKB	A0A2K5IJL2	A0A2K5IJL2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	336983	Ensembl		P
+UniProtKB	A0A2K5IMW8	A0A2K5IMW8	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	336983	Ensembl		P
+UniProtKB	A0A2K5IP47	A0A2K5IP47	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000385410	336983	Ensembl		P
+UniProtKB	A0A2K5IPS2	A0A2K5IPS2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	336983	Ensembl		P
+UniProtKB	A0A2K5ISP0	A0A2K5ISP0	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	336983	Ensembl		P
+UniProtKB	A0A2K5IW34	A0A2K5IW34	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	336983	Ensembl		P
+UniProtKB	A0A2K5IW34	A0A2K5IW34	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355896	336983	Ensembl		P
+UniProtKB	A0A2K5IWK1	A0A2K5IWK1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	336983	Ensembl		P
+UniProtKB	A0A2K5IWK1	A0A2K5IWK1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	336983	Ensembl		P
+UniProtKB	A0A2K5IWL9	A0A2K5IWL9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	336983	Ensembl		P
+UniProtKB	A0A2K5IXI4	A0A2K5IXI4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	336983	Ensembl		P
+UniProtKB	A0A2K5IXL0	A0A2K5IXL0	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	336983	Ensembl		P
+UniProtKB	A0A2K5J738	A0A2K5J738	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	336983	Ensembl		P
+UniProtKB	A0A2K5JB19	A0A2K5JB19	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	336983	Ensembl		P
+UniProtKB	A0A2K5JB19	A0A2K5JB19	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	336983	Ensembl		P
+UniProtKB	A0A2K5JB19	A0A2K5JB19	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	336983	Ensembl		P
+UniProtKB	A0A2K5JDL0	A0A2K5JDL0	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	336983	Ensembl		P
+UniProtKB	A0A2K5JF15	A0A2K5JF15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	336983	Ensembl		P
+UniProtKB	A0A2K5JF15	A0A2K5JF15	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	336983	Ensembl		P
+UniProtKB	A0A2K5JF15	A0A2K5JF15	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	336983	Ensembl		P
+UniProtKB	A0A2K5JF15	A0A2K5JF15	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	336983	Ensembl		P
+UniProtKB	A0A2K5JIK5	A0A2K5JIK5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	336983	Ensembl		P
+UniProtKB	A0A2K5JKB5	A0A2K5JKB5	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	336983	Ensembl		P
+UniProtKB	A0A2K5JKW7	A0A2K5JKW7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	336983	Ensembl		P
+UniProtKB	A0A2K5JLU3	A0A2K5JLU3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000447297	336983	Ensembl		P
+UniProtKB	A0A2K5JPN6	A0A2K5JPN6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	336983	Ensembl		P
+UniProtKB	A0A2K5JQ36	A0A2K5JQ36	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000058966	336983	Ensembl		P
+UniProtKB	A0A2K5JVD4	A0A2K5JVD4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	336983	Ensembl		P
+UniProtKB	A0A2K5JVD4	A0A2K5JVD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	336983	Ensembl		P
+UniProtKB	A0A2K5JVT3	A0A2K5JVT3	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	336983	Ensembl		P
+UniProtKB	A0A2K5JVT3	A0A2K5JVT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	336983	Ensembl		P
+UniProtKB	A0A2K5JW37	A0A2K5JW37	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	336983	Ensembl		P
+UniProtKB	A0A2K5JW37	A0A2K5JW37	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000417310	336983	Ensembl		P
+UniProtKB	A0A2K5JZL3	A0A2K5JZL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	336983	Ensembl		P
+UniProtKB	A0A2K5K232	A0A2K5K232	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	336983	Ensembl		P
+UniProtKB	A0A2K5K2T2	A0A2K5K2T2	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9UBV8|ensembl:ENSP00000362807	336983	Ensembl		P
+UniProtKB	A0A2K5K6H4	A0A2K5K6H4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000393312	336983	Ensembl		P
+UniProtKB	A0A2K5K8R2	A0A2K5K8R2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	336983	Ensembl		P
+UniProtKB	A0A2K5K8Z6	A0A2K5K8Z6	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000438788	336983	Ensembl		P
+UniProtKB	A0A2K5KAT9	A0A2K5KAT9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	336983	Ensembl		P
+UniProtKB	A0A2K5KI83	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9531	Ensembl		P
+UniProtKB	A0A2K5KID5	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	9531	Ensembl		P
+UniProtKB	A0A2K5KN23	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	9531	Ensembl		P
+UniProtKB	A0A2K5L1U5	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9531	Ensembl		P
+UniProtKB	A0A2K5L2V4	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	9531	Ensembl		P
+UniProtKB	A0A2K5L3X5	HIF1A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9531	Ensembl		P
+UniProtKB	A0A2K5L4S6	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9531	Ensembl		P
+UniProtKB	A0A2K5L4S6	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9531	Ensembl		P
+UniProtKB	A0A2K5L4S6	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9531	Ensembl		P
+UniProtKB	A0A2K5L4S6	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9531	Ensembl		P
+UniProtKB	A0A2K5L919	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	9531	Ensembl		P
+UniProtKB	A0A2K5L956	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9531	Ensembl		P
+UniProtKB	A0A2K5L9P6	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	9531	Ensembl		P
+UniProtKB	A0A2K5LD97	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9531	Ensembl		P
+UniProtKB	A0A2K5LEB8	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9531	Ensembl		P
+UniProtKB	A0A2K5LEJ9	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	9531	Ensembl		P
+UniProtKB	A0A2K5LH84	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9531	Ensembl		P
+UniProtKB	A0A2K5LH84	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9531	Ensembl		P
+UniProtKB	A0A2K5LK66	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9531	Ensembl		P
+UniProtKB	A0A2K5LRU4	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9531	Ensembl		P
+UniProtKB	A0A2K5LSE2	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9531	Ensembl		P
+UniProtKB	A0A2K5LTJ0	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	9531	Ensembl		P
+UniProtKB	A0A2K5LTJ0	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9531	Ensembl		P
+UniProtKB	A0A2K5LTQ8	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9531	Ensembl		P
+UniProtKB	A0A2K5LU06	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	9531	Ensembl		P
+UniProtKB	A0A2K5LWQ5	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9531	Ensembl		P
+UniProtKB	A0A2K5MA25	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9531	Ensembl		P
+UniProtKB	A0A2K5MAN5	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	9531	Ensembl		P
+UniProtKB	A0A2K5MCH7	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9531	Ensembl		P
+UniProtKB	A0A2K5MCN8	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9531	Ensembl		P
+UniProtKB	A0A2K5MDF8	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	9531	Ensembl		P
+UniProtKB	A0A2K5MGQ2	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9531	Ensembl		P
+UniProtKB	A0A2K5MHR0	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	9531	Ensembl		P
+UniProtKB	A0A2K5MIC6	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	9531	Ensembl		P
+UniProtKB	A0A2K5MJM5	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9531	Ensembl		P
+UniProtKB	A0A2K5MME0	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9531	Ensembl		P
+UniProtKB	A0A2K5MME0	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9531	Ensembl		P
+UniProtKB	A0A2K5MT14	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9531	Ensembl		P
+UniProtKB	A0A2K5MVS5	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9531	Ensembl		P
+UniProtKB	A0A2K5MVS5	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9531	Ensembl		P
+UniProtKB	A0A2K5MWL6	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	9531	Ensembl		P
+UniProtKB	A0A2K5MY63	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	9531	Ensembl		P
+UniProtKB	A0A2K5N174	NOTCH4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	9531	Ensembl		P
+UniProtKB	A0A2K5N5T1	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	9531	Ensembl		P
+UniProtKB	A0A2K5NAF6	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9531	Ensembl		P
+UniProtKB	A0A2K5NAG0	WNT2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	9531	Ensembl		P
+UniProtKB	A0A2K5NAV1	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	9531	Ensembl		P
+UniProtKB	A0A2K5NAV1	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	9531	Ensembl		P
+UniProtKB	A0A2K5NEI3	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9531	Ensembl		P
+UniProtKB	A0A2K5NF20	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9531	Ensembl		P
+UniProtKB	A0A2K5NH42	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	9531	Ensembl		P
+UniProtKB	A0A2K5NJ26	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9531	Ensembl		P
+UniProtKB	A0A2K5NJ26	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	9531	Ensembl		P
+UniProtKB	A0A2K5NJ26	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9531	Ensembl		P
+UniProtKB	A0A2K5NJQ0	FLNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	9531	Ensembl		P
+UniProtKB	A0A2K5NLW6	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	9531	Ensembl		P
+UniProtKB	A0A2K5NN09	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	9531	Ensembl		P
+UniProtKB	A0A2K5NV80	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9531	Ensembl		P
+UniProtKB	A0A2K5NY37	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	9531	Ensembl		P
+UniProtKB	A0A2K5NZ52	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	9531	Ensembl		P
+UniProtKB	A0A2K5P126	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9531	Ensembl		P
+UniProtKB	A0A2K5P126	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9531	Ensembl		P
+UniProtKB	A0A2K5P333	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	9531	Ensembl		P
+UniProtKB	A0A2K5P3E9	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	9531	Ensembl		P
+UniProtKB	A0A2K5P775	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9531	Ensembl		P
+UniProtKB	A0A2K5P775	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	9531	Ensembl		P
+UniProtKB	A0A2K5P775	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9531	Ensembl		P
+UniProtKB	A0A2K5PBP5	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	2715852	Ensembl		P
+UniProtKB	A0A2K5PBP9	WNT11	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P48615|ensembl:ENSMUSP00000064333	2715852	Ensembl		P
+UniProtKB	A0A2K5PCA5	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	2715852	Ensembl		P
+UniProtKB	A0A2K5PD40	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	2715852	Ensembl		P
+UniProtKB	A0A2K5PDQ2	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	2715852	Ensembl		P
+UniProtKB	A0A2K5PH95	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	2715852	Ensembl		P
+UniProtKB	A0A2K5PH95	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	2715852	Ensembl		P
+UniProtKB	A0A2K5PH95	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	2715852	Ensembl		P
+UniProtKB	A0A2K5PKY2	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	2715852	Ensembl		P
+UniProtKB	A0A2K5PNH2	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	2715852	Ensembl		P
+UniProtKB	A0A2K5PQV5	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	2715852	Ensembl		P
+UniProtKB	A0A2K5PVU7	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	2715852	Ensembl		P
+UniProtKB	A0A2K5PYF6	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	2715852	Ensembl		P
+UniProtKB	A0A2K5Q3G2	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	2715852	Ensembl		P
+UniProtKB	A0A2K5Q4U8	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	2715852	Ensembl		P
+UniProtKB	A0A2K5Q6M1	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	2715852	Ensembl		P
+UniProtKB	A0A2K5Q8N4	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	2715852	Ensembl		P
+UniProtKB	A0A2K5Q9V3	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	2715852	Ensembl		P
+UniProtKB	A0A2K5QAF9	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	2715852	Ensembl		P
+UniProtKB	A0A2K5QD84	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	2715852	Ensembl		P
+UniProtKB	A0A2K5QD84	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	2715852	Ensembl		P
+UniProtKB	A0A2K5QF28	HMGA2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52926|ensembl:ENSP00000384026	2715852	Ensembl		P
+UniProtKB	A0A2K5QFB9	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	2715852	Ensembl		P
+UniProtKB	A0A2K5QFC9	NOTCH4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	2715852	Ensembl		P
+UniProtKB	A0A2K5QJY3	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	2715852	Ensembl		P
+UniProtKB	A0A2K5QLP1	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	2715852	Ensembl		P
+UniProtKB	A0A2K5QLY2	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	2715852	Ensembl		P
+UniProtKB	A0A2K5QN42	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	2715852	Ensembl		P
+UniProtKB	A0A2K5QRG9	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	2715852	Ensembl		P
+UniProtKB	A0A2K5QRG9	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	2715852	Ensembl		P
+UniProtKB	A0A2K5QY15	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	2715852	Ensembl		P
+UniProtKB	A0A2K5QZ02	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	2715852	Ensembl		P
+UniProtKB	A0A2K5R4L7	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	2715852	Ensembl		P
+UniProtKB	A0A2K5R5X7	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	2715852	Ensembl		P
+UniProtKB	A0A2K5R5X7	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	2715852	Ensembl		P
+UniProtKB	A0A2K5R5X7	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	2715852	Ensembl		P
+UniProtKB	A0A2K5R5Y2	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	2715852	Ensembl		P
+UniProtKB	A0A2K5R5Y2	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	2715852	Ensembl		P
+UniProtKB	A0A2K5R739	A0A2K5R739	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	2715852	Ensembl		P
+UniProtKB	A0A2K5R7R4	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	2715852	Ensembl		P
+UniProtKB	A0A2K5RB25	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	2715852	Ensembl		P
+UniProtKB	A0A2K5RBM3	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	2715852	Ensembl		P
+UniProtKB	A0A2K5RFQ9	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	2715852	Ensembl		P
+UniProtKB	A0A2K5RJ54	WNT2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21552|ensembl:ENSMUSP00000010941	2715852	Ensembl		P
+UniProtKB	A0A2K5RJD7	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	2715852	Ensembl		P
+UniProtKB	A0A2K5RKY3	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	2715852	Ensembl		P
+UniProtKB	A0A2K5RP54	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	2715852	Ensembl		P
+UniProtKB	A0A2K5RP54	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	2715852	Ensembl		P
+UniProtKB	A0A2K5RQZ2	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	2715852	Ensembl		P
+UniProtKB	A0A2K5RRA5	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	2715852	Ensembl		P
+UniProtKB	A0A2K5RUN0	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	2715852	Ensembl		P
+UniProtKB	A0A2K5RV71	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	2715852	Ensembl		P
+UniProtKB	A0A2K5RWQ9	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	2715852	Ensembl		P
+UniProtKB	A0A2K5RZ19	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	2715852	Ensembl		P
+UniProtKB	A0A2K5RZ19	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	2715852	Ensembl		P
+UniProtKB	A0A2K5RZ19	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	2715852	Ensembl		P
+UniProtKB	A0A2K5RZ19	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	2715852	Ensembl		P
+UniProtKB	A0A2K5RZZ9	GSC	involved_in	GO:0014036	neural crest cell fate specification	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56915|ensembl:ENSP00000238558	2715852	Ensembl		P
+UniProtKB	A0A2K5S2Z3	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	2715852	Ensembl		P
+UniProtKB	A0A2K5S3Z7	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	2715852	Ensembl		P
+UniProtKB	A0A2K5S4Y3	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	2715852	Ensembl		P
+UniProtKB	A0A2K5S608	HEY2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	2715852	Ensembl		P
+UniProtKB	A0A2K5S608	HEY2	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	2715852	Ensembl		P
+UniProtKB	A0A2K5S8B5	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	2715852	Ensembl		P
+UniProtKB	A0A2K5SEU2	MSX1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	2715852	Ensembl		P
+UniProtKB	A0A2K5SEU2	MSX1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P13297|ensembl:ENSMUSP00000058354	2715852	Ensembl		P
+UniProtKB	A0A2K5SIN7	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	2715852	Ensembl		P
+UniProtKB	A0A2K5SJE8	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	2715852	Ensembl		P
+UniProtKB	A0A2K5TPJ0	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	9541	Ensembl		P
+UniProtKB	A0A2K5TVV3	RBPJ	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9541	Ensembl		P
+UniProtKB	A0A2K5TVV3	RBPJ	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P31266|ensembl:ENSMUSP00000040694	9541	Ensembl		P
+UniProtKB	A0A2K5TY11	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9541	Ensembl		P
+UniProtKB	A0A2K5TYK2	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9541	Ensembl		P
+UniProtKB	A0A2K5TYK2	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9541	Ensembl		P
+UniProtKB	A0A2K5TZI7	EGM_01384	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9541	Ensembl		P
+UniProtKB	A0A2K5TZI7	EGM_01384	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9541	Ensembl		P
+UniProtKB	A0A2K5U1V1	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9541	Ensembl		P
+UniProtKB	A0A2K5U5J5	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9541	Ensembl		P
+UniProtKB	A0A2K5ULU9	A0A2K5ULU9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9541	Ensembl		P
+UniProtKB	A0A2K5UQB4	PEF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9UBV8|ensembl:ENSP00000362807	9541	Ensembl		P
+UniProtKB	A0A2K5UWF8	A0A2K5UWF8	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9541	Ensembl		P
+UniProtKB	A0A2K5UZY6	A0A2K5UZY6	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9541	Ensembl		P
+UniProtKB	A0A2K5UZY6	A0A2K5UZY6	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QUS4|ensembl:ENSMUSP00000019924	9541	Ensembl		P
+UniProtKB	A0A2K5V1M4	A0A2K5V1M4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9541	Ensembl		P
+UniProtKB	A0A2K5V4S7	EGM_17593	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	9541	Ensembl		P
+UniProtKB	A0A2K5V9B8	SFRP1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8C4U3|ensembl:ENSMUSP00000033952	9541	Ensembl		P
+UniProtKB	A0A2K5VCG3	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9541	Ensembl		P
+UniProtKB	A0A2K5VD33	A0A2K5VD33	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	9541	Ensembl		P
+UniProtKB	A0A2K5VJX0	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9541	Ensembl		P
+UniProtKB	A0A2K5VJX0	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P21274|ensembl:ENSMUSP00000028836	9541	Ensembl		P
+UniProtKB	A0A2K5VJX0	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9541	Ensembl		P
+UniProtKB	A0A2K5VK55	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	9541	Ensembl		P
+UniProtKB	A0A2K5VNT3	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9541	Ensembl		P
+UniProtKB	A0A2K5VSA7	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9541	Ensembl		P
+UniProtKB	A0A2K5W6A5	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9541	Ensembl		P
+UniProtKB	A0A2K5W7L6	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9541	Ensembl		P
+UniProtKB	A0A2K5WA77	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	9541	Ensembl		P
+UniProtKB	A0A2K5WB74	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9541	Ensembl		P
+UniProtKB	A0A2K5WBN1	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9541	Ensembl		P
+UniProtKB	A0A2K5WEH7	WNT5A	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22725|ensembl:ENSMUSP00000064878	9541	Ensembl		P
+UniProtKB	A0A2K5WEH7	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9541	Ensembl		P
+UniProtKB	A0A2K5WGQ8	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	9541	Ensembl		P
+UniProtKB	A0A2K5WQZ4	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9541	Ensembl		P
+UniProtKB	A0A2K5WRD2	EGM_17304	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	9541	Ensembl		P
+UniProtKB	A0A2K5WRL2	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9541	Ensembl		P
+UniProtKB	A0A2K5WS04	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	9541	Ensembl		P
+UniProtKB	A0A2K5WSK2	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	9541	Ensembl		P
+UniProtKB	A0A2K5WSN0	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	9541	Ensembl		P
+UniProtKB	A0A2K5X388	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9541	Ensembl		P
+UniProtKB	A0A2K5X5A7	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	9541	Ensembl		P
+UniProtKB	A0A2K5X7A5	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9541	Ensembl		P
+UniProtKB	A0A2K5X9A0	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9541	Ensembl		P
+UniProtKB	A0A2K5X9A0	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9541	Ensembl		P
+UniProtKB	A0A2K5X9A0	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9541	Ensembl		P
+UniProtKB	A0A2K5X9A0	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9541	Ensembl		P
+UniProtKB	A0A2K5XBQ7	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9568	Ensembl		P
+UniProtKB	A0A2K5XDI3	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9568	Ensembl		P
+UniProtKB	A0A2K5XEB3	BMP2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9568	Ensembl		P
+UniProtKB	A0A2K5XEB3	BMP2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P12643|ensembl:ENSP00000368104	9568	Ensembl		P
+UniProtKB	A0A2K5XK67	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	9568	Ensembl		P
+UniProtKB	A0A2K5XLR9	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9568	Ensembl		P
+UniProtKB	A0A2K5XM44	LRP6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75581|ensembl:ENSP00000261349	9568	Ensembl		P
+UniProtKB	A0A2K5XMR2	HAS2	involved_in	GO:0090500	endocardial cushion to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70312|ensembl:ENSMUSP00000062212	9568	Ensembl		P
+UniProtKB	A0A2K5XPY9	KLHL12	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q53G59|ensembl:ENSP00000356230	9568	Ensembl		P
+UniProtKB	A0A2K5XU45	LEF1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P27782|ensembl:ENSMUSP00000029611	9568	Ensembl		P
+UniProtKB	A0A2K5XVP7	NOG	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97466|ensembl:ENSMUSP00000061427	9568	Ensembl		P
+UniProtKB	A0A2K5XVT2	CUL7	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14999|ensembl:ENSP00000265348	9568	Ensembl		P
+UniProtKB	A0A2K5XWF3	SMAD4	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P97471|ensembl:ENSMUSP00000025393	9568	Ensembl		P
+UniProtKB	A0A2K5XXR8	ENG	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63961|ensembl:ENSMUSP00000009705	9568	Ensembl		P
+UniProtKB	A0A2K5XYI1	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9568	Ensembl		P
+UniProtKB	A0A2K5Y0V1	NOTCH4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99466|ensembl:ENSP00000364163	9568	Ensembl		P
+UniProtKB	A0A2K5Y462	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9568	Ensembl		P
+UniProtKB	A0A2K5Y4A4	ADAM15	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O88839|ensembl:ENSMUSP00000029676	9568	Ensembl		P
+UniProtKB	A0A2K5Y5F5	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9568	Ensembl		P
+UniProtKB	A0A2K5Y6L9	FGFR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P11362|ensembl:ENSP00000400162	9568	Ensembl		P
+UniProtKB	A0A2K5YHR0	FAM83D	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9H4H8|ensembl:ENSP00000481465	9568	Ensembl		P
+UniProtKB	A0A2K5YJG2	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	9568	Ensembl		P
+UniProtKB	A0A2K5YLI1	EPB41L5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BGS1|ensembl:ENSMUSP00000128374	9568	Ensembl		P
+UniProtKB	A0A2K5YLI9	HIF1A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61221|ensembl:ENSMUSP00000021530	9568	Ensembl		P
+UniProtKB	A0A2K5YMC4	LOXL2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9Y4K0|ensembl:ENSP00000373783	9568	Ensembl		P
+UniProtKB	A0A2K5YN11	TRIM28	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q62318|ensembl:ENSMUSP00000005705	9568	Ensembl		P
+UniProtKB	A0A2K5YNE4	AKNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q80VW7|ensembl:ENSMUSP00000041614	9568	Ensembl		P
+UniProtKB	A0A2K5YRG0	LOXL3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P58215|ensembl:ENSP00000264094	9568	Ensembl		P
+UniProtKB	A0A2K5YXW4	SNAI2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O43623|ensembl:ENSP00000020945	9568	Ensembl		P
+UniProtKB	A0A2K5YY87	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9568	Ensembl		P
+UniProtKB	A0A2K5YY87	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9568	Ensembl		P
+UniProtKB	A0A2K5YY87	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P46531|ensembl:ENSP00000498587	9568	Ensembl		P
+UniProtKB	A0A2K5YY87	NOTCH1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9568	Ensembl		P
+UniProtKB	A0A2K5Z1D7	TGFBR1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P36897|ensembl:ENSP00000364133	9568	Ensembl		P
+UniProtKB	A0A2K5Z4N5	TCOF1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q13428|ensembl:ENSP00000493815	9568	Ensembl		P
+UniProtKB	A0A2K5Z9X6	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9568	Ensembl		P
+UniProtKB	A0A2K5ZJF3	FLNA	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BTM8|ensembl:ENSMUSP00000033699	9568	Ensembl		P
+UniProtKB	A0A2K5ZJW1	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9568	Ensembl		P
+UniProtKB	A0A2K5ZJX2	PPP3R1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q63810|ensembl:ENSMUSP00000099944	9568	Ensembl		P
+UniProtKB	A0A2K5ZKX1	RFLNB	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5SVD0|ensembl:ENSMUSP00000021207	9568	Ensembl		P
+UniProtKB	A0A2K5ZNB8	FGF8	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P37237|ensembl:ENSMUSP00000026241	9568	Ensembl		P
+UniProtKB	A0A2K5ZQH8	SNAI1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9568	Ensembl		P
+UniProtKB	A0A2K5ZQH8	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O95863|ensembl:ENSP00000244050	9568	Ensembl		P
+UniProtKB	A0A2K5ZQH8	SNAI1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02085|ensembl:ENSMUSP00000050581	9568	Ensembl		P
+UniProtKB	A0A2K5ZR67	PDCD6	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O75340|ensembl:ENSP00000264933	9568	Ensembl		P
+UniProtKB	A0A2K5ZWW8	WNT16	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9QYS1|ensembl:ENSMUSP00000031681	9568	Ensembl		P
+UniProtKB	A0A2K5ZZL1	NOLC1	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q14978|ensembl:ENSP00000474710	9568	Ensembl		P
+UniProtKB	A0A2K6A1E2	EFNA1	involved_in	GO:0003199	endocardial cushion to mesenchymal transition involved in heart valve formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P52793|ensembl:ENSMUSP00000029566	9568	Ensembl		P
+UniProtKB	A0A2K6A1S4	KBTBD8	involved_in	GO:0014029	neural crest formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8NFY9|ensembl:ENSP00000401878	9568	Ensembl		P
+UniProtKB	A0A2K6A593	DDX5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17844|ensembl:ENSP00000225792	9568	Ensembl		P
+UniProtKB	A0A2K6A8N9	TGFB2	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9568	Ensembl		P
+UniProtKB	A0A2K6A8N9	TGFB2	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P61812|ensembl:ENSP00000355897	9568	Ensembl		P
+UniProtKB	A0A2K6AAR0	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9568	Ensembl		P
+UniProtKB	A0A2K6AB07	ROCK1	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P70335|ensembl:ENSMUSP00000069549	9568	Ensembl		P
+UniProtKB	A0A2K6ABH9	TGFBR3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9568	Ensembl		P
+UniProtKB	A0A2K6ABH9	TGFBR3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q03167|ensembl:ENSP00000212355	9568	Ensembl		P
+UniProtKB	A0A2K6ADF8	SOX9	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q04887|ensembl:ENSMUSP00000000579	9568	Ensembl		P
+UniProtKB	A0A2K6AN52	EDNRA	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61614|ensembl:ENSMUSP00000034029	9545	Ensembl		P
+UniProtKB	A0A2K6AQB9	DACT3	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q0PHV7|ensembl:ENSMUSP00000104133	9545	Ensembl		P
+UniProtKB	A0A2K6ARE0	TBX3	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O15119|ensembl:ENSP00000257567	9545	Ensembl		P
+UniProtKB	A0A2K6AS68	HEYL	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9545	Ensembl		P
+UniProtKB	A0A2K6AS68	HEYL	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9545	Ensembl		P
+UniProtKB	A0A2K6AZE5	TMEM100	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9CQG9|ensembl:ENSMUSP00000090464	9545	Ensembl		P
+UniProtKB	A0A2K6AZM3	WNT5A	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P41221|ensembl:ENSP00000264634	9545	Ensembl		P
+UniProtKB	A0A2K6B0H9	DDX17	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q92841|ensembl:ENSP00000385536	9545	Ensembl		P
+UniProtKB	A0A2K6B3L0	DLG5	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8TDM6|ensembl:ENSP00000361467	9545	Ensembl		P
+UniProtKB	A0A2K6B412	GSK3B	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P49841|ensembl:ENSP00000264235	9545	Ensembl		P
+UniProtKB	A0A2K6BAC6	EDN1	involved_in	GO:0014034	neural crest cell fate commitment	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P22387|ensembl:ENSMUSP00000021796	9545	Ensembl		P
+UniProtKB	A0A2K6BE80	WNT4	involved_in	GO:0001837	epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P56705|ensembl:ENSP00000290167	9545	Ensembl		P
+UniProtKB	A0A2K6BFM3	RTN4	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q99P72|ensembl:ENSMUSP00000099907	9545	Ensembl		P
+UniProtKB	A0A2K6BI21	TASOR	involved_in	GO:0060809	mesodermal to mesenchymal transition involved in gastrulation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q69ZR9|ensembl:ENSMUSP00000022450	9545	Ensembl		P
+UniProtKB	A0A2K6BMN7	NOTCH1	involved_in	GO:0060317	cardiac epithelial to mesenchymal transition	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9545	Ensembl		P
+UniProtKB	A0A2K6BMN7	NOTCH1	involved_in	GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q01705|ensembl:ENSMUSP00000028288	9545	Ensembl		P
